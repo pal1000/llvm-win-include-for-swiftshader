@@ -1,0 +1,1 @@
+LLVM platform specific include for Google SwiftShader Windows build.
